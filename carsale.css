@@ -1,0 +1,190 @@
+h1{
+    color: rgb(165, 26, 26);
+    
+}
+
+body{
+    background: beige;
+    display: table; /* the display and margin help make the page centered */
+    margin: 0 auto;
+    
+}
+
+.features{
+    text-align: left;
+}
+
+
+/*EXTERIOR Photos*/
+#backRight{
+    transition:transform 0.25s ease;
+}
+#backRight:hover{
+    -webkit-transform:scale(3); /* or some other value */
+    transform:scale(3);
+}
+
+#driverDoor{
+    transition:transform 0.25s ease;
+}
+#driverDoor:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#front{
+    transition:transform 0.25s ease;
+}
+#front:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#leftFront{
+    transition:transform 0.25s ease;
+}
+#leftFront:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#backLeft{
+    transition:transform 0.25s ease;
+}
+#backLeft:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+/*INTERIOR Photos*/
+#wheel{
+    transition:transform 0.25s ease;
+}
+#wheel:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#driverSeat{
+    transition:transform 0.25s ease;
+}
+#driverSeat:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#driverView{
+    transition:transform 0.25s ease;
+}
+#driverView:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#screenView{
+    transition:transform 0.25s ease;
+}
+#screenView:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#middleView{
+    transition:transform 0.25s ease;
+}
+#middleView:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#passDoor{
+    transition:transform 0.25s ease;
+}
+#passDoor:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#passSeat{
+    transition:transform 0.25s ease;
+}
+#passSeat:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#backPassL{
+    transition:transform 0.25s ease;
+}
+#backPassL:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#backPassR{
+    transition:transform 0.25s ease;
+}
+#backPassR:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#bootOut{
+    transition:transform 0.25s ease;
+}
+#bootOut:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#bootIn{
+    transition:transform 0.25s ease;
+}
+#bootIn:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#mileage{
+    transition:transform 0.25s ease;
+}
+#mileage:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#frontView{
+    transition:transform 0.25s ease;
+}
+#frontView:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#sunroof{
+    transition:transform 0.25s ease;
+}
+#sunroof:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#sunroofGlass{
+    transition:transform 0.25s ease;
+}
+#sunroofGlass:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+#sunroofOpen{
+    transition:transform 0.25s ease;
+}
+#sunroofOpen:hover{
+    -webkit-transform:scale(3); 
+    transform:scale(3);
+}
+
+
+
+
